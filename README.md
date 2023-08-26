@@ -1,2 +1,3 @@
 # Simple-Contact-Form
- Client registers and credentials are stored. Each new client is linked to a team member.
+ Clients submit a contact form. Existing clients are verified through phone or email. 
+ Each new client is stored in both the "clients" table and the "leads" table with the corresponding client_id.
